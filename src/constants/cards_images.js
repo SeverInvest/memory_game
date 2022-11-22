@@ -28,9 +28,6 @@ const arrayImages = [
   { alt: 'заяц', src: hareImg }
 ]
 
-const pairedImages = arrayImages.concat(arrayImages);
-export const shuffledImages = pairedImages.sort(() => Math.random() - 0.5);
-
 export const cardToFlip = { alt: 'рубашка карты', src: coverImg };
 
 const cardsData = arrayImages.map((image, ind) => ({ image, ind, isFlipped: false }))
