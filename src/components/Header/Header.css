@@ -1,0 +1,11 @@
+.app-header {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .app-header__logo {
+    width: 100px;
+    height: 100px;
+  }

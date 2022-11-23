@@ -1,7 +1,7 @@
-import { cardToFlip } from '../constants/cards_images.js';
-import '../blocks/card/card.css';
+import { cardToFlip } from '../../constants/cards_images.js';
+import './Card.css';
 
-function Card({ image, isFlipped, flipCard }) {
+export default function Card({ image, isFlipped, flipCard }) {
   const displayImg = isFlipped ? image : cardToFlip;
   return (
     <figure
@@ -17,5 +17,3 @@ function Card({ image, isFlipped, flipCard }) {
     </figure>
   )
 }
-
-export default Card
