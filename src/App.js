@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-
 import './App.css';
+
 import Cards from "./components/Cards/Cards.js"
 import Header from "./components/Header/Header.js"
 import Attempts from "./components/Attempts/Attempts.js"
