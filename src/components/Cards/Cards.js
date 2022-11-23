@@ -2,24 +2,21 @@ import { shuffledCards } from '../../constants/cards_images.js';
 import React, { useState } from 'react';
 import './Cards.css'
 import Card from '../Card/Card.js'
-//import { attemptsCount, setAttemptsCount } from '../Attempts/Attempts.js'
 
 export default function Cards({ increaseAttemtsCount }) {
 
   const [cardsState, setCardsState] = useState(shuffledCards);
-  //const [attemptsCount, setAttemptsCount] = useState(0);
   const [opendCards, setOpendCards] = useState([]);
   const [isLocked, setIsLocked] = useState(false);
 
   function flipCard(index) {
-    if (isLocked) {
+    if (isLocked || cardsState[index].isFlipped) {
       return
     }
     if (opendCards.length === 0) {
       setOpendCards([index]);
     } else {
       increaseAttemtsCount()
-      //setAttemptsCount(attemptsCount + 1);
       if (opendCards[0] === index) {
         return
       } else if (cardsState[opendCards[0]].ind === cardsState[index].ind) {
@@ -38,7 +35,7 @@ export default function Cards({ increaseAttemtsCount }) {
           setOpendCards([])
           setIsLocked(false)
           clearInterval(lockedInterval)
-        }, 500)
+        }, 700)
 
       }
     }
