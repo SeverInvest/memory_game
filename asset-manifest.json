@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.68cb43ab.css",
+    "main.js": "/static/js/main.d9f38cce.js",
+    "static/js/787.69b12325.chunk.js": "/static/js/787.69b12325.chunk.js",
+    "static/media/Inter-Medium.woff?v=3.19": "/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
+    "static/media/Inter-Black.woff?v=3.19": "/static/media/Inter-Black.c6938660eec019fefd68.woff",
+    "static/media/Inter-Regular.woff?v=3.19": "/static/media/Inter-Regular.8c206db99195777c6769.woff",
+    "static/media/Inter-Medium.woff2?v=3.19": "/static/media/Inter-Medium.293fd13dbca5a3e450ef.woff2",
+    "static/media/Inter-Black.woff2?v=3.19": "/static/media/Inter-Black.15ca31c0a2a68f76d2d1.woff2",
+    "static/media/Inter-Regular.woff2?v=3.19": "/static/media/Inter-Regular.c8ba52b05a9ef10f4758.woff2",
+    "static/media/beaver.jpg": "/static/media/beaver.150492f75280d73b7e81.jpg",
+    "static/media/hawk.jpg": "/static/media/hawk.6e9936997c626f57e757.jpg",
+    "static/media/duck.jpg": "/static/media/duck.48d7fd0ab15f7d2d65d2.jpg",
+    "static/media/cover.jpg": "/static/media/cover.9979374d06bbd5a432e5.jpg",
+    "static/media/hedgehog.jpg": "/static/media/hedgehog.d2c9765843e1b190af0c.jpg",
+    "static/media/deer.jpg": "/static/media/deer.5cc3b7b8c92119c53801.jpg",
+    "static/media/hare.jpg": "/static/media/hare.df6b371ca3edf068abdb.jpg",
+    "static/media/logo192.png": "/static/media/logo192.1cf4508c0e7ed1351803.png",
+    "static/media/squirrel.jpg": "/static/media/squirrel.6efe759ae26c212f8ae5.jpg",
+    "static/media/bear.jpg": "/static/media/bear.6d1055f29aa61e4ee393.jpg",
+    "static/media/wolf.jpg": "/static/media/wolf.79702b05cad94ddfcfc5.jpg",
+    "static/media/walrus.jpg": "/static/media/walrus.7be9fbfceeb92d6b0f19.jpg",
+    "static/media/fox.jpg": "/static/media/fox.1bc2c8bb834bd06b0293.jpg",
+    "static/media/polar_bear.jpg": "/static/media/polar_bear.fe422c8a0ff24b923efa.jpg",
+    "index.html": "/index.html",
+    "main.68cb43ab.css.map": "/static/css/main.68cb43ab.css.map",
+    "main.d9f38cce.js.map": "/static/js/main.d9f38cce.js.map",
+    "787.69b12325.chunk.js.map": "/static/js/787.69b12325.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.68cb43ab.css",
+    "static/js/main.d9f38cce.js"
+  ]
+}
