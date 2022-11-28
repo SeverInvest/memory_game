@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/memory_game/static/css/main.27623a79.css",
+    "main.css": "/memory_game/static/css/main.9e5f8871.css",
     "main.js": "/memory_game/static/js/main.74b8ed50.js",
     "static/js/787.69b12325.chunk.js": "/memory_game/static/js/787.69b12325.chunk.js",
     "static/media/Inter-Medium.woff?v=3.19": "/memory_game/static/media/Inter-Medium.9053572c46aeb4b16caa.woff",
@@ -24,12 +24,12 @@
     "static/media/fox.jpg": "/memory_game/static/media/fox.1bc2c8bb834bd06b0293.jpg",
     "static/media/polar_bear.jpg": "/memory_game/static/media/polar_bear.fe422c8a0ff24b923efa.jpg",
     "index.html": "/memory_game/index.html",
-    "main.27623a79.css.map": "/memory_game/static/css/main.27623a79.css.map",
+    "main.9e5f8871.css.map": "/memory_game/static/css/main.9e5f8871.css.map",
     "main.74b8ed50.js.map": "/memory_game/static/js/main.74b8ed50.js.map",
     "787.69b12325.chunk.js.map": "/memory_game/static/js/787.69b12325.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.27623a79.css",
+    "static/css/main.9e5f8871.css",
     "static/js/main.74b8ed50.js"
   ]
 }
